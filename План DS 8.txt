@@ -1,0 +1,21 @@
+1 - Введение. Основы. Pandas+NumPy+SkLearn. Обработка данных с помощью SkLearn - нормализация, диксеритзация (sparse categorical features), очистка от аномалий, уменьшение размерности, пропуски
+    Классификация - Основы ML-pipelinов Метрики оценки качества (Ac, Pr/Re, F1, ROC AUC, PR AUC) Логистическая регрессия. Метод опорных векторов. Деревья решений (визуализация, пропущенные значения, прунинг)
+
+2 - Ансамбли моделей - bagging (корреляция ответов и результат, random forest - неустойчивость деревьев), bias-variance trade-off (RF и GBDT), boosting, XGBoost. 
+											Методы построение композиции (усреднение, бустинг, блендинг, стекинг), GBM и бустинг, сравнение Random forest и GBDT
+											Интерпретация XGBoost
+
+3 - Interpretable ML - Lime, Shap, другие подходы
+
+4 - Кластеризация применение. K-Means, DBSCan, other. Метрики качества кластеризации. Self-training, co-training, p-learning, active learning
+
+5 - Введение в нейронные сети. Проблема XOR. Backpropagation - математика. Проблема локального максимума, сходимость. Стохастический градиент, реализации. Функции активации. 
+							Основы Deep Learning, свёрточные сети - слои. Transfer Learning, обзор архитектур.
+
+6 - RNN - приложения, модели. VAE/Encoder-Decoder. Генеративные модели на основе RNN.  Attention Mechanism. GANs. 
+    Encoder-Decoder практика. Categorical Embeddingи
+
+7 - AutoML. Стратегии - GridSearch, Genetic Algorithm, Annealing. Программные реализации.
+	NLP - от BoW до BERT
+
+8 - Итоги курса, вопросы, use-casы, обсуждение проектов/курсовых
