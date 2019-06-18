@@ -1,0 +1,3 @@
+https://github.com/reiinakano/xcessiv - web-basesd application for ensemble learning
+https://github.com/flennerhag/mlens - high-performance ensemble-learning
+https://github.com/vecxoz/vecstack - stacking lib
