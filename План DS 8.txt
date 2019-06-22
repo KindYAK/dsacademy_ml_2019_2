@@ -5,7 +5,10 @@
 											Методы построение композиции (усреднение, бустинг, блендинг, стекинг), GBM и бустинг, сравнение Random forest и GBDT
 											Интерпретация XGBoost
 
-3 - Interpretable ML - Lime, Shap, другие подходы
+3 - Interpretable ML - Interpretable Models, Decision Rules, RuleFit
+PDP, ICE, ALE, Global and local surrogates (Lime), Shap
+Counterfactual Explnations, Adversarial examples, RecSys
+T-SNE для визуализации.
 
 4 - Кластеризация применение. K-Means, DBSCan, other. Метрики качества кластеризации. Self-training, co-training, p-learning, active learning
 

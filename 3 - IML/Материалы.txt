@@ -1,0 +1,2 @@
+https://christophm.github.io/interpretable-ml-book/ - отличная книга
+https://www.kaggle.com/learn/machine-learning-explainability - туториал
