@@ -12,10 +12,13 @@ T-SNE для визуализации.
 
 4 - Кластеризация применение. K-Means, DBSCan, other. Метрики качества кластеризации
 Уменьшение размерности, manifold learning 
-PU-learning, active learning, Self-learning
+PU-learning, active learning, Self-learning/Semi-Supervised learning
 
-5 - Введение в нейронные сети. Проблема XOR. Backpropagation - математика. Проблема локального максимума, сходимость. Стохастический градиент, реализации. Функции активации. 
-							Основы Deep Learning, свёрточные сети - слои. Transfer Learning, обзор архитектур.
+5 - Введение в нейронные сети. Функции активации (Swish).  Проблема XOR. Backpropagation - математика. Проблема локального минимума, плато, pathological curvature,  сходимость. 
+                            Стохастический градиент, реализации. (SGD, momentum, Nesterov momentum, Averaging/bach, 
+							AdaGrad (different Learning Rates based on variance of parameter), RMSProp (AdaGrad + batch/averaging), Adam (RMSProp+seconds moments+momentum windows batch)
+							SGR With restarts
+							Основы Deep Learning, свёрточные сети - слои. Transfer Learning - основные идеи и реализации
 
 6 - RNN - приложения, модели. VAE/Encoder-Decoder. Генеративные модели на основе RNN.  Attention Mechanism. GANs. 
     Encoder-Decoder практика. Categorical Embeddingи
