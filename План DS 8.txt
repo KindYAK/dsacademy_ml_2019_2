@@ -15,15 +15,18 @@ T-SNE для визуализации.
 PU-learning, active learning, Self-learning/Semi-Supervised learning
 
 5 - Введение в нейронные сети. Функции активации (Swish).  Проблема XOR. Backpropagation - математика. Проблема локального минимума, плато, pathological curvature,  сходимость. 
-                            Стохастический градиент, реализации. (SGD, momentum, Nesterov momentum, Averaging/bach, 
-							AdaGrad (different Learning Rates based on variance of parameter), RMSProp (AdaGrad + batch/averaging), Adam (RMSProp+seconds moments+momentum windows batch)
-							SGR With restarts
+                            Стохастический градиент, реализации. (SGD, momentum, Nesterov momentum, Averaging/batch, 
+																AdaGrad (different Learning Rates based on variance of parameter), 
+																RMSProp (AdaGrad + batch/averaging), 
+																Adam (RMSProp+seconds moments+momentum windows batch)
+							SGD With restarts
 							Основы Deep Learning, свёрточные сети - слои. Transfer Learning - основные идеи и реализации
 
-6 - RNN - приложения, модели. VAE/Encoder-Decoder. Генеративные модели на основе RNN.  Attention Mechanism. GANs. 
-    Encoder-Decoder практика. Categorical Embeddingи
+6 - RNN - приложения, модели. VAE/Encoder-Decoder. Attention Mechanism. GANs. Categorical Embeddingи
 
-7 - AutoML. Стратегии - GridSearch, Genetic Algorithm, Annealing. Программные реализации.
-	NLP - от BoW до BERT
+7 - NLP - BoW -> Tf/IDF -> Word2Vec -> Glove -> FastText -> ElMO (GPT-1) -> Bert -> GPT-2
+ML -> 1DConv -> RNN/LSTM -> Attention
 
-8 - Итоги курса, вопросы, use-casы, обсуждение проектов/курсовых
+8 - AutoML. Стратегии - GridSearch, Genetic Algorithm, Annealing. Программные реализации.
+Основы Reinforcement Learning - Q-Learning, Policy Learning, Deep Reinforcement Learning
+Итоги курса, вопросы, use-casы, обсуждение проектов/курсовых
